@@ -1,2 +1,25 @@
-# stock-market-investing-proposal-and-contract-template-pack
-Professional proposals, contracts, SOWs, and NDAs tailored for Stock Market &amp; Investing businesses. Close deals faster with polished documents.
+# Stock Market & Investing Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqbJ14eP8Is8FG9rKcZH3Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqbJ14eP8Is8FG9rKcZH3Z)
+
